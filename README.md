@@ -1,4 +1,4 @@
-# Hey Car Challenge
+# Tech Challenge
 
 ### Prerequisites
 * java-8 and set JAVA_HOME
